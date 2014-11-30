@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tomfahey3@yahoo.com",
+    "longName": "FamousGirls",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "FamousGirls",
+    "uuid": "6c7aa883-ad2c-453d-a7a3-025a287728b2",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
